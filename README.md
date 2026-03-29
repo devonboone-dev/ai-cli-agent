@@ -40,7 +40,7 @@ ai-cli-agent/
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-cli-agent.git
+   git clone https://github.com/devonboone-dev/ai-cli-agent.git
    cd ai-cli-agent
 ```
 
@@ -68,4 +68,4 @@ ai-cli-agent/
 
 ## Author
 
-Devon Boone — [LinkedIn](https://www.linkedin.com/in/devonboone-22415b107/) | [GitHub](https://github.com/YOUR_USERNAME)
+Devon Boone — [LinkedIn](https://www.linkedin.com/in/devonboone-22415b107/) | [GitHub](https://github.com/devonboone-dev)
